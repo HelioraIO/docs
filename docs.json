@@ -8,6 +8,13 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.png",
+  "homepage": "introduction/home",
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/introduction/home"
+    }
+  ],
   "navigation": {
     "groups": [
       {
